@@ -1,5 +1,5 @@
-Omega
-Delta
-Sigma
-Theta
-Lambda
+Δ Delta
+Θ Theta
+Λ Lambda
+Σ Sigma
+Ω Omega
